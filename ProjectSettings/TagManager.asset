@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - board
+  - blue_brick
+  - red_brick
+  - purple_brick
+  - bottom_wall
+  - replacement_brick
+  - ball
+  - pressEnterTag
+  - leftWall
+  - rightWall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 2614834955
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Gamelayer
+    uniqueID: 3581285427
+    locked: 0
